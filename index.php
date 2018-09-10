@@ -13,13 +13,9 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <?php include("includes/menu-topo.php");?>
-    
-    
+    <?php include("includes/menu-topo.php");?>    
     <?php 
-
-
-    echo ("Hello world");
+      echo ("Hello world");
     ?>
 
     <!-- Optional JavaScript -->
