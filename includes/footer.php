@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="page-footer font-small blue pt-4">
+<footer class="page-footer font-small bg-light pt-4">
 
     <!-- Footer Links -->
     <div class="container-fluid text-center text-md-left">
@@ -11,8 +11,9 @@
         <div class="col-md-6 mt-md-0 mt-3">
 
           <!-- Content -->
-          <h5 class="text-uppercase">Footer Content</h5>
-          <p>Here you can use rows and columns here to organize your footer content.</p>
+          <h5 class="text-uppercase">COLEGIO E CURSO ESSENCIAL</h5>
+          <p>Rua Péricles , 35, Bangu, CEP: 21.825-330, Rio de Janeiro - RJ</p>
+          <p>21 34638758   |   <a href="mailto:colegio.essencial@hotmail.com">colegio.essencial@hotmail.com</a></p>
 
         </div>
         <!-- Grid column -->
@@ -27,16 +28,19 @@
 
             <ul class="list-unstyled">
               <li>
-                <a href="#!">Link 1</a>
+                <a href="#!">INICIO</a>
               </li>
               <li>
-                <a href="#!">Link 2</a>
+                <a href="#!">INSTITUICAO</a>
               </li>
               <li>
-                <a href="#!">Link 3</a>
+                <a href="#!">INFORMATIVOS</a>
               </li>
               <li>
-                <a href="#!">Link 4</a>
+                <a href="#!">DEPOIMENTOS</a>
+              </li>
+              <li>
+                <a href="#!">PORTAL DO ALUNO</a>
               </li>
             </ul>
 
@@ -47,22 +51,7 @@
           <div class="col-md-3 mb-md-0 mb-3">
 
             <!-- Links -->
-            <h5 class="text-uppercase">Links</h5>
-
-            <ul class="list-unstyled">
-              <li>
-                <a href="#!">Link 1</a>
-              </li>
-              <li>
-                <a href="#!">Link 2</a>
-              </li>
-              <li>
-                <a href="#!">Link 3</a>
-              </li>
-              <li>
-                <a href="#!">Link 4</a>
-              </li>
-            </ul>
+          <a href="#">FACEBOOK</a>
 
           </div>
           <!-- Grid column -->
